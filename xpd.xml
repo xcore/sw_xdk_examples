@@ -10,6 +10,7 @@
     <location>git@github.com:xcore/sw_xdk_examples</location>
     <name>sw_xdk_examples</name>
     <maintainer>davelxmos</maintainer>
+    <release parenthash = "2ae121db84e059e943b6ad645e42590183029fef" version = "1.2.0beta0"></release>
     <scope>example</scope>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
