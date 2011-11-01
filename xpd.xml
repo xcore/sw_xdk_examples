@@ -12,7 +12,8 @@
     <maintainer>davelxmos</maintainer>
     <release parenthash = "2ae121db84e059e943b6ad645e42590183029fef" version = "1.2.0beta0" githash = "2f040070697715032650b2e5adaec8cc0b7b8094"></release>
     <release parenthash = "2f040070697715032650b2e5adaec8cc0b7b8094" version = "1.2.0beta1" githash = "f8d0a7470a95a8701bf1d4d2de58366854eebd06"></release>
-    <release parenthash = "aefa81fd6920ef24a31013668f323539c7400f15" version = "1.0.0rc0"></release>
+    <release parenthash = "aefa81fd6920ef24a31013668f323539c7400f15" version = "1.0.0rc0" githash = "b6e32d31a183e13038c507facc62e0837711955b"></release>
+    <release parenthash = "b6e32d31a183e13038c507facc62e0837711955b" version = "1.2.0rc0"></release>
     <scope>example</scope>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
