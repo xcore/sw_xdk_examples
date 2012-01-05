@@ -22,7 +22,7 @@ XCC_FLAGS = -O3
 
 # The USED_MODULES variable lists other module used by the application.
 
-USED_MODULES =
+USED_MODULES = module_cascading_biquad
 
 XCC_FLAGS_Debug = $(XCC_FLAGS)
 XCC_FLAGS_Release = $(XCC_FLAGS)

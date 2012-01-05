@@ -1,0 +1,7 @@
+# This will rebuild the Biquad filter coefficients if different parameters are required.
+coefficients:
+	make -f ../../sc_dsp_filters/build_biquad_coefficients/Makefile \
+		FILTER='-min -16 -max 16 -step 1 -bits 27 -low 100 -high 8000 -peaking 150 1 -peaking 200 1 -peaking 260 1 -peaking 350 1 -peaking 450 1 -peaking 600 1 -peaking 800 1 -peaking 1100 1 -peaking 1600 1  -peaking 2000 1 -peaking 2500 1 -peaking 3200 1 -peaking 4500 1 -peaking 6000 1 ' \
+		INCLUDEFILE=src/coeffs.h \
+		XCFILE=src/coeffs.xc \
+		CSVFILE=bin/response.csv
