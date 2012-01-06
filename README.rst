@@ -25,4 +25,5 @@ Known Issues
 Required Repositories
 ================
 
+* sc_dsp_filters git\@github.com:xcore/sc_dsp_filters.git
 * xcommon git\@github.com:xcore/xcommon.git
