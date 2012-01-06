@@ -1,0 +1,11 @@
+This application has been updated to use the cascaded biquad filters from sc_dsp_filters.
+
+For ease of building, pre-calculated files have been committed which provide the expected
+number of banks for the filters. To regenerate the coefficients (for example to change
+the peaking filter frequencies), edit Makefile.coeffs and rebuild using this file:
+# make -f Makefile.coeffs
+before rebuilding the application:
+# make all
+
+If 16 filters are not configured (or the range is changed from -16 - +16), unexpected
+things may happen.
