@@ -3,4 +3,4 @@
 // University of Illinois/NCSA Open Source License posted in
 // LICENSE.txt and at <http://github.xcore.com/>
 
-#define BANKS 16
+#include "coeffs.h"

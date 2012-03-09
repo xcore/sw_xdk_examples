@@ -6,13 +6,10 @@ XDK Examples
 :Description: Code examples for the XDK development board.
 
 
-
-
-
 Key Features
 ============
 
-* Simple examples for the XC-1A development board
+* Simple examples for the XDK development board
 * Used to create new project templates in the XDE
 
 Known Issues
@@ -24,4 +21,4 @@ Required software (dependencies)
 ================================
 
   * xcommon (if using development tools earlier than 11.11.0)
-
+  * sc_dsp_filters git\@github.com:xcore/sc_dsp_filters.git
