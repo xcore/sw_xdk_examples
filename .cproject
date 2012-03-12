@@ -23,6 +23,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                                 <inputType id="com.xmos.cdt.xc.compiler.input.90493638" name="XC Sources" superClass="com.xmos.cdt.xc.compiler.input" />
                                 <option id="gnu.c.compiler.option.include.paths.33013469" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
@@ -30,6 +32,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.xc.compiler.base.49032437" name="com.xmos.cdt.xc.compiler.base" superClass="com.xmos.cdt.xc.compiler.base">
@@ -38,12 +42,16 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.61237293" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.c.compiler.base.55843644" name="com.xmos.cdt.c.compiler.base" superClass="com.xmos.cdt.c.compiler.base">
@@ -52,12 +60,16 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.53251393" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.cpp.compiler.base.79990110" name="com.xmos.cdt.cpp.compiler.base" superClass="com.xmos.cdt.cpp.compiler.base">
@@ -66,12 +78,16 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.29179073" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.core.assembler.base.76258046" name="com.xmos.cdt.core.assembler.base" superClass="com.xmos.cdt.core.assembler.base">
@@ -80,12 +96,16 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.81655287" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                             </tool>
                         </toolChain>
@@ -200,6 +220,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                                 <inputType id="com.xmos.cdt.xc.compiler.input.58954477" name="XC Sources" superClass="com.xmos.cdt.xc.compiler.input" />
                                 <option id="gnu.c.compiler.option.include.paths.81539840" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
@@ -207,6 +229,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.xc.compiler.base.97857087" name="com.xmos.cdt.xc.compiler.base" superClass="com.xmos.cdt.xc.compiler.base">
@@ -215,12 +239,16 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.51045555" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.c.compiler.base.34980641" name="com.xmos.cdt.c.compiler.base" superClass="com.xmos.cdt.c.compiler.base">
@@ -229,12 +257,16 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.83636192" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.cpp.compiler.base.64729427" name="com.xmos.cdt.cpp.compiler.base" superClass="com.xmos.cdt.cpp.compiler.base">
@@ -243,12 +275,16 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.73959888" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.core.assembler.base.61312081" name="com.xmos.cdt.core.assembler.base" superClass="com.xmos.cdt.core.assembler.base">
@@ -257,12 +293,16 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.409772" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
                             </tool>
                         </toolChain>

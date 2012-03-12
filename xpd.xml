@@ -26,6 +26,9 @@
         <src file = "src/main.xc">sw_xdk_examples/app_xdk_led</src>
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
+        <configurations>
+            <configuration name="Default"/>
+        </configurations>
     </template>
     <template name = "Flashing LED Example">
         <board>XDK</board>
@@ -33,6 +36,9 @@
         <src file = "src/main.xc">sw_xdk_examples/app_xdk_flashing_led</src>
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
+        <configurations>
+            <configuration name="Default"/>
+        </configurations>
     </template>
     <template name = "Sequence LED Example">
         <board>XDK</board>
@@ -40,6 +46,9 @@
         <src file = "src/main.xc">sw_xdk_examples/app_xdk_sequence_led</src>
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
+        <configurations>
+            <configuration name="Default"/>
+        </configurations>
     </template>
     <template name = "Multicore LED Example">
         <board>XDK</board>
@@ -47,6 +56,9 @@
         <src file = "src/main.xc">sw_xdk_examples/app_xdk_multicore_led</src>
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
+        <configurations>
+            <configuration name="Default"/>
+        </configurations>
     </template>
     <template name = "Parallel LED Example">
         <board>XDK</board>
@@ -54,5 +66,8 @@
         <src file = "src/main.xc">sw_xdk_examples/app_xdk_parallel_led</src>
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
+        <configurations>
+            <configuration name="Default"/>
+        </configurations>
     </template>
 </xpd>
