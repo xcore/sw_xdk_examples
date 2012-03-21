@@ -16,6 +16,7 @@
     <release parenthash = "b6e32d31a183e13038c507facc62e0837711955b" version = "1.2.0rc0" githash = "e10c601bdfd9a63a39e2522a750a63e823bd114b"></release>
     <release parenthash = "0a633fa7072074d9f91552926628bfaf1226ec30" version = "1.2.1rc0" githash = "8bb4e3372abd0a2ffd8bd6da6a222fd344616de8"></release>
     <release parenthash = "0f9d465c7bf3d0a7a3c6f763d86e4cb95a6ed9f8" version = "1.2.1rc1" githash = "063a40b16aa703f61161e4438f09d82667672d2c"></release>
+    <release parenthash = "aa56e56e0f4474ff94554216da7d680d96655d97" version = "1.2.1rc2"></release>
     <scope>example</scope>
     <subpartnumber>XM-000043-SW</subpartnumber>
     <vendor>XMOS</vendor>
@@ -27,7 +28,7 @@
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
         <configurations>
-            <configuration name="Default"/>
+            <configuration name = "Default"></configuration>
         </configurations>
     </template>
     <template name = "Flashing LED Example">
@@ -37,7 +38,7 @@
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
         <configurations>
-            <configuration name="Default"/>
+            <configuration name = "Default"></configuration>
         </configurations>
     </template>
     <template name = "Sequence LED Example">
@@ -47,7 +48,7 @@
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
         <configurations>
-            <configuration name="Default"/>
+            <configuration name = "Default"></configuration>
         </configurations>
     </template>
     <template name = "Multicore LED Example">
@@ -57,7 +58,7 @@
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
         <configurations>
-            <configuration name="Default"/>
+            <configuration name = "Default"></configuration>
         </configurations>
     </template>
     <template name = "Parallel LED Example">
@@ -67,7 +68,7 @@
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
         <configurations>
-            <configuration name="Default"/>
+            <configuration name = "Default"></configuration>
         </configurations>
     </template>
 </xpd>
