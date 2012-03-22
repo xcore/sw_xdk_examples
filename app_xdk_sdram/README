@@ -1,0 +1,11 @@
+README:
+
+This application uses the external SDRAM module as a simple framebuffer to drive the XDK LCD.
+It loads a single image stored in the Flash to the SDRAM before displaying it. This could be
+extended to support multiple images and a dual frame buffer, however space on the XDK flash
+is very limited (it's only 128kBytes). The code is approx 12k, mainly buffers, so a 96k data
+partition can be created to hold the bitmap. It supports bitmaps with 24bit colour only.
+
+The following xflash command can be used to store a suitable bitmap onto the xdk:
+xflash --boot-partition-size 0x8000 bin/app_sdram_burst_example.xe --data my_image.bmp
+

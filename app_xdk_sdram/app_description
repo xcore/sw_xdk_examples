@@ -1,0 +1,2 @@
+A simple example that loads a bitmap from flash and displays it on the LCD using the SDRAM module as a framebuffer
+
