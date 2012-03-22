@@ -23,6 +23,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -32,6 +34,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -42,6 +46,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -50,6 +56,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -60,6 +68,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -68,6 +78,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -78,6 +90,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -86,6 +100,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -96,6 +112,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -104,6 +122,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -220,6 +240,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -229,6 +251,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -239,6 +263,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -247,6 +273,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -257,6 +285,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -265,6 +295,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -275,6 +307,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -283,6 +317,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -293,6 +329,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>
@@ -301,6 +339,8 @@
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sdram_burst/module_sdram_burst}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad/src}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_dsp_filters/module_cascading_biquad}&quot;' />
                                 </option>

@@ -22,3 +22,4 @@ Required software (dependencies)
 
   * xcommon (if using development tools earlier than 11.11.0)
   * sc_dsp_filters git\@github.com:xcore/sc_dsp_filters.git
+  * sc_sdram_burst git\@github.com:xcore/sc_sdram_burst.git
