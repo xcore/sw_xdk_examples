@@ -1,20 +1,24 @@
 <?xml version="1.0" ?>
 <xpd>
     <dependency repo = "xcommon">
-        <githash>2d310cc19558a756d2477625338491f66ff0e57d</githash>
+        <githash>3416f530590333980bbe152a9123b16becdb441f</githash>
         <uri>ssh://git@github.com/xcore/xcommon</uri>
+        <version>1.0.0rc1</version>
     </dependency>
     <description>Code examples for the XDK development board.</description>
-    <doc>http://www.xmos.com/published/xdk-examples</doc>
-    <icon>icon/xdk.png</icon>
     <location>git@github.com:xcore/sw_xdk_examples</location>
     <name>sw_xdk_examples</name>
     <maintainer>davelxmos</maintainer>
+    <partnumber>XM-001639-DH</partnumber>
     <release parenthash = "2ae121db84e059e943b6ad645e42590183029fef" version = "1.2.0beta0" githash = "2f040070697715032650b2e5adaec8cc0b7b8094"></release>
     <release parenthash = "2f040070697715032650b2e5adaec8cc0b7b8094" version = "1.2.0beta1" githash = "f8d0a7470a95a8701bf1d4d2de58366854eebd06"></release>
     <release parenthash = "aefa81fd6920ef24a31013668f323539c7400f15" version = "1.0.0rc0" githash = "b6e32d31a183e13038c507facc62e0837711955b"></release>
-    <release parenthash = "b6e32d31a183e13038c507facc62e0837711955b" version = "1.2.0rc0"></release>
+    <release parenthash = "b6e32d31a183e13038c507facc62e0837711955b" version = "1.2.0rc0" githash = "e10c601bdfd9a63a39e2522a750a63e823bd114b"></release>
+    <release parenthash = "0a633fa7072074d9f91552926628bfaf1226ec30" version = "1.2.1rc0" githash = "8bb4e3372abd0a2ffd8bd6da6a222fd344616de8"></release>
+    <release parenthash = "0f9d465c7bf3d0a7a3c6f763d86e4cb95a6ed9f8" version = "1.2.1rc1" githash = "063a40b16aa703f61161e4438f09d82667672d2c"></release>
+    <release parenthash = "aa56e56e0f4474ff94554216da7d680d96655d97" version = "1.2.1rc2"></release>
     <scope>example</scope>
+    <subpartnumber>XM-000043-SW</subpartnumber>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
     <template name = "LED Example">
@@ -23,6 +27,9 @@
         <src file = "src/main.xc">sw_xdk_examples/app_xdk_led</src>
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
+        <configurations>
+            <configuration name = "Default"></configuration>
+        </configurations>
     </template>
     <template name = "Flashing LED Example">
         <board>XDK</board>
@@ -30,6 +37,9 @@
         <src file = "src/main.xc">sw_xdk_examples/app_xdk_flashing_led</src>
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
+        <configurations>
+            <configuration name = "Default"></configuration>
+        </configurations>
     </template>
     <template name = "Sequence LED Example">
         <board>XDK</board>
@@ -37,6 +47,9 @@
         <src file = "src/main.xc">sw_xdk_examples/app_xdk_sequence_led</src>
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
+        <configurations>
+            <configuration name = "Default"></configuration>
+        </configurations>
     </template>
     <template name = "Multicore LED Example">
         <board>XDK</board>
@@ -44,6 +57,9 @@
         <src file = "src/main.xc">sw_xdk_examples/app_xdk_multicore_led</src>
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
+        <configurations>
+            <configuration name = "Default"></configuration>
+        </configurations>
     </template>
     <template name = "Parallel LED Example">
         <board>XDK</board>
@@ -51,5 +67,8 @@
         <src file = "src/main.xc">sw_xdk_examples/app_xdk_parallel_led</src>
         <!-- Empty dependency list since app stands alone -->
         <dependencies></dependencies>
+        <configurations>
+            <configuration name = "Default"></configuration>
+        </configurations>
     </template>
 </xpd>
